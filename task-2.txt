@@ -2,3 +2,22 @@
 AD-SOYAD:Ceylan Dağılma 
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+Başla
+
+1. Sudoku tahtasında boş (0 veya .) hücre bul.
+   - Eğer boş hücre yoksa => Tahta tamamlanmıştır. Çözüm bulundu. Dön.
+
+2. 1’den 9’a kadar sayıları sırayla dene:
+   a. Sayıyı geçerli hücreye yerleştirmek kurallara uygun mu kontrol et:
+      - Aynı satırda var mı?
+      - Aynı sütunda var mı?
+      - Aynı 3x3 bölgede var mı?
+   b. Eğer kurallara uygunsa:
+      i. Sayıyı hücreye yaz.
+      ii. Rekürsif olarak algoritmayı çağır (geri izleme).
+      iii. Eğer çözüm bulunduysa => Dön.
+      iv. Aksi halde sayıyı sil (geri al) ve bir sonraki sayıyı dene.
+
+3. 1–9 arası hiçbir sayı uygun değilse => Bu konumdan çözüm yok => Geri dön.
+
+Bitti
