@@ -2,3 +2,35 @@
 AD-SOYAD:Ceylan Dağılma 
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+Başla
+
+1. Hedef şekli analiz et:
+   - Şeklin genel yapısını belirle (örnek: ev = taban + duvar + çatı)
+   - Gerekli alt bileşenleri tanımla
+
+2. Her alt bileşen için boyut ve yapı planı oluştur:
+   - Genişlik, yükseklik, derinlik hesapla
+   - Uygun parça boyutları belirle (2x4, 1x2, vs.)
+
+3. Kullanılabilir parça listesini kontrol et:
+   - Gerekli parçalar mevcut mu?
+   - Eksikse alternatif parça kombinasyonları oluştur (örnek: 2x4 yerine 2 adet 2x2)
+
+4. Montaj sırasını planla (aşamaları sırala):
+   a. Tabanı oluştur
+   b. Duvarları inşa et (birbirine geçmeli, destekli olacak şekilde)
+   c. Kapı/pencere yerlerini açık bırak
+   d. Çatıyı ekle (eğimli parça varsa kullan)
+   e. Detayları ekle (bayrak, minifigür, vs.)
+
+5. Her adım için kontrol noktaları ekle:
+   - Parçalar sağlam oturdu mu?
+   - Simetri ve denge kontrolü
+
+6. Şekli tamamlayınca genel kontrol yap:
+   - Stabilite (sallanma, yıkılma testi)
+   - Görsel doğruluk (tasarımla uyum)
+
+7. (İsteğe bağlı) Parça listesini ve montaj talimatlarını belge olarak kaydet
+
+Bitti
