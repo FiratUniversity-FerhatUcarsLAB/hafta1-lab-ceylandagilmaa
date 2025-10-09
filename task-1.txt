@@ -1,4 +1,4 @@
 Öğrenci No:250541108
 AD-SOYAD:Ceylan Dağılma 
 
-Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz: 
