@@ -2,3 +2,37 @@
 AD-SOYAD:Ceylan Dağılma 
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+Başla
+
+1. Ekipmanı hazırla:
+   - V60, filtre kağıdı, tartı, kettle, kahve ve su
+
+2. Filtre kağıdını yerleştir ve sıcak su ile ıslat:
+   - Kağıt tadını engellemek için
+   - Ekipmanı ısıtmak için
+
+3. Kahveyi tart:
+   - Standart oran: 1 gram kahve / 15-17 ml su
+   - Örn: 15 gram kahve → 225 ml su
+
+4. Kahveyi öğüt:
+   - V60 için orta-ince öğütme (deniz tuzu gibi)
+
+5. Öğütülmüş kahveyi filtreye dök, düzleştir.
+
+6. Su sıcaklığını kontrol et:
+   - İdeal: 90–96°C
+
+7. Blooming (çiçeklenme) işlemi:
+   - İlk 30-40 ml sıcak suyu yavaşça dök
+   - 30 saniye bekle (gaz çıkışı için)
+
+8. Dairesel hareketlerle yavaş yavaş suyu dök:
+   - Her 30 saniyede ~50-60 ml
+   - Tüm demleme süresi ≈ 2:30 – 3:30 dakika
+
+9. Suyun tamamı süzüldüğünde, demleme tamamlandı.
+
+10. Kahveyi bardağa dök ve hemen servis et.
+
+Bitti
