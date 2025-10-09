@@ -2,3 +2,32 @@
 AD-SOYAD:Ceylan Dağılma 
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+Başla
+
+1. Rehber verilerini oku. (Liste, dizi, veri tabanı vs.)
+
+2. Tüm kayıtları ada göre alfabetik sıraya göre sırala:
+    - Sıralama algoritması kullan: Örn. Quick Sort, Merge Sort veya dilin yerleşik sort() fonksiyonu
+    - Karşılaştırma: isim[i] < isim[i+1]
+
+3. Sıralanmış rehberi kullanıcıya göster.
+
+4. Aşağıdaki işlemlerden biri talep edilirse:
+
+   a. Arama (isim):
+      - Binary Search kullan (sıralı olduğu için)
+      - Orta elemanı kontrol et → isim eşleşiyorsa dön, değilse uygun yarıya git
+
+   b. Yeni kişi ekle:
+      - Kayıt ekle (isim ve numara)
+      - Tekrar sıralamaya dahil et (veya uygun yere ekle – binary insert)
+
+   c. Kişi sil:
+      - İsme göre ara (binary search)
+      - Kişi bulunduysa listeden çıkar
+
+   d. Güncelleme:
+      - İsme göre ara
+      - Bulunduysa numarayı güncelle
+
+Bitti
